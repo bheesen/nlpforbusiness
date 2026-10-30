@@ -1,39 +1,36 @@
-# Agentic NLP für die Unternehmenspraxis – Begleitwebseite
+# Agentic NLP für die Unternehmenspraxis
 
-Dies ist die GitHub-Pages-Webseite zum Buch von **Bernd Heesen**.
+**Intelligente Sprachsysteme mit Python, spaCy, PyTorch, RAG und
+Open-Source-LLMs entwickeln**
 
-**ISBN:** 978-3-658-53643-5  
-**Buch:** https://www.amazon.de/Agentic-NLP-Unternehmenspraxis-Sprachsysteme-Open-Source-LLMs/dp/3658536438
+![Cover des Buches Agentic NLP für die Unternehmenspraxis](assets/cover-nlp.png)
 
-## Veröffentlichung über GitHub Pages
+**Bernd Heesen · Springer Gabler · ISBN 978-3-658-53643-5**
 
-1. Die Dateien dieses Pakets direkt in das Hauptverzeichnis (Root) des
-   bestehenden Repositorys `bheesen/nlpforbusiness` hochladen. Die
-   Ordnerstruktur einschließlich `assets` und `materialien` beibehalten.
-2. In GitHub das Repository öffnen und **Settings → Pages** aufrufen.
-3. Unter **Build and deployment** als Source **Deploy from a branch** wählen.
-4. **Branch: main** und **Folder: / (root)** auswählen und speichern.
-5. Die Seite sollte unter
-   **https://bheesen.github.io/nlpforbusiness/** erreichbar werden.
-   Die Veröffentlichung kann einige Minuten dauern.
+> Von den Grundlagen der natürlichen Sprachverarbeitung bis zu modernen
+> Sprachmodellen und agentischen Anwendungen: Dieses Buch verbindet
+> Konzepte mit nachvollziehbarer Python-Praxis.
 
-Falls das Repository einen anderen Standardbranch als `main` verwendet,
-bitte die Pfade in `index.html` anpassen (Suche nach `/tree/main/`).
+**[Zur Buch-Webseite](https://bheesen.github.io/nlpforbusiness/)** ·
+**[Buch bei Amazon](https://www.amazon.de/Agentic-NLP-Unternehmenspraxis-Sprachsysteme-Open-Source-LLMs/dp/3658536438)** ·
+**[Autor](https://www.profheesen.de)**
 
-## Dateien
+## Inhalte
 
-- `index.html`: Inhalt der Webseite
-- `styles.css`: Gestaltung und mobile Ansicht
-- `assets/cover-nlp.png`: Buchcover
-- `materialien/`: Drei vorbereitete Materialverzeichnisse
+Die Begleitwebseite stellt die zentralen Themenbereiche des Buches vor:
+NLP-Grundlagen, Python und Entwicklungsumgebung, Textvorverarbeitung,
+spaCy, Machine Learning, PyTorch, Transformer, Open-Source-LLMs, RAG
+und Agentic NLP. Die Themenübersicht ist zunächst nicht als endgültiges
+nummeriertes Inhaltsverzeichnis zu verstehen.
 
-## Hinweise zur Pflege
+## Begleitmaterialien
 
-- Die Übersicht unter »Inhalte« ist **thematisch**, nicht das verbindliche
-  nummerierte Inhaltsverzeichnis des Buches.
-- Sobald die Verlags-URL feststeht, die Hinweismeldung in `index.html`
-  durch einen Link ersetzen.
-- Die Ordnerlinks der Webseite funktionieren erst, nachdem die Dateien
-  in das öffentliche Repository hochgeladen wurden.
-- Bitte keine personenbezogenen Daten, Zugangsschlüssel oder lizenzierten
-  Buchdateien ohne erforderliche Rechte ins öffentliche Repository laden.
+- [Installation der Entwicklungsumgebung](materialien/01-installation-entwicklungsumgebung/)
+- [Coding zum Buch](materialien/02-coding-zum-buch/)
+- [Coding zu Lerneinheiten der Virtuellen Hochschule Bayern](materialien/03-coding-vhb/)
+
+Die Verzeichnisse werden nach und nach mit Materialien ergänzt.
+
+## Über den Autor
+
+Weitere Informationen: [www.profheesen.de](https://www.profheesen.de).
