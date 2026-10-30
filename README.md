@@ -20,8 +20,9 @@ Open-Source-LLMs entwickeln**
 Die Begleitwebseite stellt die zentralen Themenbereiche des Buches vor:
 NLP-Grundlagen, Python und Entwicklungsumgebung, Textvorverarbeitung,
 spaCy, Machine Learning, PyTorch, Transformer, Open-Source-LLMs, RAG
-und Agentic NLP. Die Themenübersicht ist zunächst nicht als endgültiges
-nummeriertes Inhaltsverzeichnis zu verstehen.
+und Agentic NLP. Das Manuskript ist fertiggestellt und liegt dem
+Verlag in der finalen Fassung vor. Die Übersicht fasst zentrale
+Buchinhalte zusammen.
 
 ## Begleitmaterialien
 
