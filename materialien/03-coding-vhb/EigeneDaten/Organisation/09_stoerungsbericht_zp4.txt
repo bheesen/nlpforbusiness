@@ -1,0 +1,4 @@
+ZP4 meldet seit 08:40 Uhr VIB-H. VS-22 zeigt 8,2 mm/s.
+Das Lager L2 wird ungewöhnlich warm. Die Produktion wurde gestoppt.
+Die Anlage ist gesichert. Eine Prüfung durch die Instandhaltung ist heute
+erforderlich. Priorität P1 wurde im Service-Ticket hinterlegt.
