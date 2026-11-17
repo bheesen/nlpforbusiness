@@ -1,0 +1,43 @@
+{
+  "embedding_model": "intfloat/multilingual-e5-small",
+  "chunk_size": 120,
+  "overlap": 25,
+  "passagen": [
+    {
+      "quelle": "01_glossar.md",
+      "text": "# Organisationsglossar ZP4 bezeichnet in der Organisation die Zentrifugalpumpe 4 im Werk Nord. VIB-H ist der interne Alarmcode für hohe mechanische Schwingung. L2 bezeichnet das antriebsseitige Lager der ZP4. WFB steht für Werkfreigabebescheinigung. SFM bedeutet Service-Freigabematrix."
+    },
+    {
+      "quelle": "02_wartung_zp4.md",
+      "text": "# Wartungsanweisung ZP4 Bei einem VIB-H-Alarm an ZP4 ist zuerst das Lager L2 zu prüfen. Anschließend sind Ausrichtung und Befestigung der Pumpe zu kontrollieren. Liegt die Schwinggeschwindigkeit über 7,1 mm/s, bleibt ZP4 bis zur fachlichen Freigabe außer Betrieb."
+    },
+    {
+      "quelle": "03_alarmcodes.md",
+      "text": "# Alarmcodes VIB-H: hohe mechanische Schwingung an rotierenden Aggregaten. TEMP-H: Temperaturgrenze eines überwachten Bauteils überschritten. PRES-L: Prozessdruck liegt unter der freigegebenen Untergrenze. Für VIB-H an ZP4 gilt die Wartungsanweisung ZP4 als führendes Dokument."
+    },
+    {
+      "quelle": "04_serviceprozess.md",
+      "text": "# Serviceprozess Störungen mit Produktionsstillstand werden als Priorität P1 behandelt. Bei P1 muss innerhalb von 15 Minuten ein Service-Ticket angelegt werden. Die SFM bestimmt, welche Fachgruppe die Freigabe übernehmen darf."
+    },
+    {
+      "quelle": "05_sensorik.md",
+      "text": "# Sensorik Der Sensor VS-22 misst die Schwinggeschwindigkeit an ZP4. Eine Referenzmessung erfolgt nach Tausch von L2 und vor Wiederanlauf. Bei unplausiblen Messwerten sind Sensorleitung und Steckverbinder zu prüfen."
+    },
+    {
+      "quelle": "06_sicherheit.md",
+      "text": "# Sicherheit Arbeiten an ZP4 dürfen nur nach elektrischer und mechanischer Sicherung beginnen. Vor dem Öffnen der Kupplungsabdeckung ist der Stillstand zu bestätigen. Sicherheitsfreigaben haben Vorrang vor Wartungsempfehlungen."
+    },
+    {
+      "quelle": "07_ersatzteile.md",
+      "text": "# Ersatzteile Für Lager L2 ist der interne Materialcode MAT-L2-440 vorgesehen. Nach einem Lagerwechsel sind Chargennummer und Einbaudatum im Ticket zu dokumentieren. Ersatzteile ohne Freigabestatus dürfen nicht eingebaut werden."
+    },
+    {
+      "quelle": "08_eskalation.md",
+      "text": "# Eskalation Bleibt VIB-H nach dem Tausch von L2 bestehen, wird die Diagnose an Team ROT-2 eskaliert. ROT-2 prüft Wellenfluchtung, Kupplung und Fundament. Eine erneute Freigabe erfolgt erst nach dokumentierter Referenzmessung."
+    },
+    {
+      "quelle": "09_stoerungsbericht_zp4.txt",
+      "text": "ZP4 meldet seit 08:40 Uhr VIB-H. VS-22 zeigt 8,2 mm/s. Das Lager L2 wird ungewöhnlich warm. Die Produktion wurde gestoppt. Die Anlage ist gesichert. Eine Prüfung durch die Instandhaltung ist heute erforderlich. Priorität P1 wurde im Service-Ticket hinterlegt."
+    }
+  ]
+}

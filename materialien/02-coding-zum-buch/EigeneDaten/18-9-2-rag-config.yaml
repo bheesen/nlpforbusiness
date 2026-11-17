@@ -1,0 +1,13 @@
+llm:
+  modell: Qwen/Qwen3-0.6B
+  max_neue_tokens: 120
+
+rag:
+  index: organisation.faiss
+  metadaten: organisation-rag.json
+  encoder_geraet: cpu
+  top_k: 3
+  min_score: 0.75
+  fallback: >-
+    Dazu liegen in den gefundenen Dokumenten keine verlässlichen
+    Informationen vor.
