@@ -1,0 +1,16 @@
+{"frage":"Was bedeutet VIB-H?","antwort":"VIB-H ist der interne Alarmcode für hohe mechanische Schwingung."}
+{"frage":"Was ist ZP4?","antwort":"ZP4 bezeichnet die Zentrifugalpumpe 4 im Werk Nord."}
+{"frage":"Was ist bei VIB-H an ZP4 zuerst zu prüfen?","antwort":"Bei VIB-H an ZP4 ist zuerst das Lager L2 zu prüfen."}
+{"frage":"Was bedeutet L2?","antwort":"L2 bezeichnet das antriebsseitige Lager der ZP4."}
+{"frage":"Was bedeutet WFB?","antwort":"WFB steht für Werkfreigabebescheinigung."}
+{"frage":"Was bedeutet SFM?","antwort":"SFM bedeutet Service-Freigabematrix."}
+{"frage":"Welcher Sensor misst die Schwingung an ZP4?","antwort":"VS-22 misst die Schwinggeschwindigkeit an ZP4."}
+{"frage":"Was passiert bei mehr als 7,1 mm/s an ZP4?","antwort":"ZP4 bleibt bis zur fachlichen Freigabe außer Betrieb."}
+{"frage":"Welche Priorität hat ein Produktionsstillstand?","antwort":"Ein Produktionsstillstand wird als Priorität P1 behandelt."}
+{"frage":"Wann muss bei P1 ein Ticket angelegt werden?","antwort":"Bei P1 muss innerhalb von 15 Minuten ein Service-Ticket angelegt werden."}
+{"frage":"Welcher Materialcode gehört zu L2?","antwort":"Für L2 ist der Materialcode MAT-L2-440 vorgesehen."}
+{"frage":"An wen wird ein anhaltender VIB-H eskaliert?","antwort":"Ein anhaltender VIB-H wird an Team ROT-2 eskaliert."}
+{"frage":"Was prüft ROT-2?","antwort":"ROT-2 prüft Wellenfluchtung, Kupplung und Fundament."}
+{"frage":"Wann erfolgt eine erneute Freigabe?","antwort":"Eine erneute Freigabe erfolgt nach dokumentierter Referenzmessung."}
+{"frage":"Was ist TEMP-H?","antwort":"TEMP-H bezeichnet eine überschrittene Temperaturgrenze."}
+{"frage":"Was ist PRES-L?","antwort":"PRES-L bedeutet, dass der Prozessdruck unter der Untergrenze liegt."}

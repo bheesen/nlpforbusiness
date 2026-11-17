@@ -1,0 +1,41 @@
+text,label
+Pumpe 4 vibriert stark und steht seit heute,stoerung
+Motor 7 überhitzt und die Produktion ist unterbrochen,stoerung
+Ventil 3 verliert Öl und muss sofort geprüft werden,stoerung
+Sensor 9 liefert keine Messwerte mehr,stoerung
+Getriebe 2 blockiert beim Anfahren,stoerung
+Lager an Motor 5 wird sehr heiß,stoerung
+Hydraulikdruck ist plötzlich abgefallen,stoerung
+Encoder 8 meldet keine Position mehr,stoerung
+Pumpe 2 macht laute Geräusche und fällt aus,stoerung
+Kühlung an Motor 3 funktioniert nicht,stoerung
+Filterwechsel für nächste Woche einplanen,wartung
+Lager an Pumpe 2 beim Service prüfen,wartung
+Routinekontrolle an Anlage 5 durchführen,wartung
+Dichtung bei der nächsten Wartung ersetzen,wartung
+Ölwechsel für Getriebe 4 terminieren,wartung
+Sensor 6 beim Monatsservice kalibrieren,wartung
+Ventil 9 im Wartungsfenster prüfen,wartung
+Inspektion der Pumpe 8 für Freitag planen,wartung
+Schmierplan für Motor 2 abarbeiten,wartung
+Filter 3 planmäßig austauschen,wartung
+Wie setze ich den Alarm am Motor zurück,frage
+Wo finde ich den Prüfplan für Pumpe 4,frage
+Welche Temperatur ist für Lager zulässig,frage
+Bitte senden Sie die Anleitung für Ventil 3,frage
+Was bedeutet der Fehlercode E17,frage
+Wie wird der Drucksensor kalibriert,frage
+Welche Schmierung ist für Lager L2 vorgesehen,frage
+Wo steht die Freigaberegel für ZP4,frage
+Was bedeutet VIB-H im Wartungssystem,frage
+Wie oft muss Filter 7 gewechselt werden,frage
+Gewinnen Sie heute einen Einkaufsgutschein,spam
+Klicken Sie hier für günstige Ersatzteile,spam
+Exklusives Angebot nur noch wenige Stunden,spam
+Kostenlos registrieren und Preis sichern,spam
+Jetzt Rabattcode für Werkzeug aktivieren,spam
+Sonderaktion für neue Geschäftskunden,spam
+Sie wurden für einen Gewinn ausgewählt,spam
+Billige Ersatzteile direkt online bestellen,spam
+Unschlagbares Angebot nur heute sichern,spam
+Jetzt Newsletter abonnieren und Gutschein erhalten,spam
